@@ -185,3 +185,9 @@ DEPENDENCIES
   sqlite3
   therubyracer
   uglifier
+
+RUBY VERSION
+   ruby 1.9.3p551
+
+BUNDLED WITH
+   1.13.5
